@@ -14,8 +14,8 @@ import runway
 
 slim = tf.contrib.slim
 
-style_image_size = 256
-image_size = 256
+style_image_size = 1024
+image_size = 1024
 style_square_crop = False
 content_square_crop = False
 
